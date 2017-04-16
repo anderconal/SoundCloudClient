@@ -7,7 +7,7 @@ From Robin Wieruch's https://www.robinwieruch.de/minimal-react-webpack-babel-set
 
 #### Familiar with Git?
 
-Checkout this repo, install dependencies, then start the gulp process with the following:
+Checkout this repo, install dependencies, then start your webpack-dev-server:
 
 ```
 > git clone https://github.com/anderconal/MinimalReactSetup.git
