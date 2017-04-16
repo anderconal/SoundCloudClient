@@ -1,7 +1,7 @@
-## MinimalReactSetup
-# Minimal React setup with Babel and Webpack.
+## SoundCloundClient
+# The SoundCloud Client in React + Redux
 
-From Robin Wieruch's https://www.robinwieruch.de/minimal-react-webpack-babel-setup/
+From Robin Wieruch's https://www.robinwieruch.de/the-soundcloud-client-in-react-redux/
 
 ### Getting Started
 
@@ -10,8 +10,8 @@ From Robin Wieruch's https://www.robinwieruch.de/minimal-react-webpack-babel-set
 Checkout this repo, install dependencies, then start your webpack-dev-server:
 
 ```
-> git clone https://github.com/anderconal/MinimalReactSetup.git
-> cd MinimalReactSetup
+> git clone https://github.com/anderconal/SoundCloudClient.git
+> cd SoundCloudClient
 > npm install
 > npm start
 ```
